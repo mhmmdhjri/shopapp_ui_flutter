@@ -1,42 +1,41 @@
-# Shoppa - Flutter UI
+# SnapBuy - Flutter UI
 
-Shoppa adalah aplikasi belanja modern yang dirancang dengan UI yang menawan dan berwarna oranye. Aplikasi ini menghadirkan pengalaman pengguna yang elegan, dimulai dari layar onboarding hingga fitur pendaftaran dan login yang lengkap.
+SnapBuy adalah aplikasi belanja modern dengan UI berwarna oranye yang memukau. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang memuaskan, mulai dari layar onboarding hingga fitur pendaftaran dan login yang lengkap.
 
 ## Fitur Utama
-- **Onboarding Screen**: Sambut pengguna baru dengan layar onboarding yang informatif dan menarik.
-- **Register & Sign-Up**: Daftarkan akun pengguna baru dengan cepat dan mudah.
-- **Sign-In**: Fitur masuk ke akun yang sederhana dan aman.
+- **Onboarding Screen**: Memperkenalkan aplikasi kepada pengguna baru dengan layar onboarding yang informatif dan menarik.
+- **Register & Sign-Up**: Memudahkan pengguna untuk mendaftar akun baru.
+- **Sign-In**: Menyediakan cara sederhana dan aman untuk masuk ke akun pengguna.
 - **Complete Screen**: Layar konfirmasi untuk menyelesaikan proses pendaftaran.
-- **Forgot Password**: Fitur pemulihan kata sandi jika pengguna lupa kata sandinya.
+- **Forgot Password**: Fitur pemulihan kata sandi untuk pengguna yang lupa.
 
-Shoppa dirancang dengan mempertimbangkan kenyamanan dan efisiensi, memastikan setiap interaksi pengguna berjalan dengan mulus. Warna dominan oranye menambah kesan dinamis dan energik, sesuai dengan tren aplikasi belanja masa kini.
+SnapBuy menghadirkan desain yang elegan dengan tema oranye yang energik, menciptakan pengalaman belanja yang menarik dan efisien.
 
 ---
 
 ## Mockup Tampilan
+
 ![SnapBuy](https://github.com/user-attachments/assets/292505f7-0a30-42ec-beef-29cf7836f11c)
 
-
-
-> **Note**: Mockup di atas menampilkan tampilan UI medium dari Shoppa, termasuk contoh onboarding, sign-in, dan lainnya.
+> **Note**: Mockup di atas menampilkan tampilan UI medium dari SnapBuy, termasuk contoh onboarding, sign-in, dan fitur lainnya.
 
 ---
 
 ## Desain Responsif & Ramah Pengguna
-Shoppa UI menggunakan desain yang sepenuhnya responsif, memberikan tampilan optimal pada berbagai ukuran layar. Mulai dari perangkat mobile hingga tablet, pengalaman belanja yang nyaman tetap terjaga.
+SnapBuy dirancang untuk tampil dengan optimal pada berbagai ukuran layar. Dari perangkat mobile hingga tablet, setiap elemen UI disesuaikan agar tetap responsif dan nyaman digunakan.
 
-Desain intuitif Shoppa membuat pengguna mudah menjelajahi fitur-fitur seperti pendaftaran akun baru dan pemulihan kata sandi. Dengan UI yang simpel dan cepat, Shoppa hadir sebagai aplikasi belanja yang siap memberikan pengalaman pengguna yang terbaik.
+Desain intuitif dan fitur yang mudah diakses memastikan pengalaman pengguna yang lancar, baik saat mendaftar, masuk, atau mengatur kata sandi.
 
 ## Teknologi
-- **Flutter**: Menggunakan framework Flutter untuk cross-platform development.
+- **Flutter**: Framework cross-platform untuk pengembangan aplikasi.
 - **Dart**: Bahasa pemrograman yang digunakan untuk logika aplikasi.
-- **Responsive UI**: Kompatibel dengan berbagai ukuran layar.
+- **Responsive UI**: Menjamin tampilan yang optimal pada berbagai ukuran layar.
 
 ## Instalasi
-1. Clone repository ini: `git clone https://github.com/username/shoppa.git`
+1. Clone repository ini: `git clone https://github.com/mhmmdhjri/shopapp_ui_flutter.git`
 2. Install dependencies: `flutter pub get`
 3. Jalankan aplikasi: `flutter run`
 
 ---
 
-Terima kasih telah menggunakan Shoppa UI! Jangan ragu untuk menghubungi kami jika ada pertanyaan atau saran.
+Terima kasih telah menggunakan SnapBuy UI! Jangan ragu untuk menghubungi kami jika ada pertanyaan atau saran.
