@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "shopapp_ui",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib /main.dart"  // Specify the entry point
+        },
+        {
+            "name": "shopapp_ui (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib /main.dart"  // Specify the entry point
+        },
+        {
+            "name": "shopapp_ui (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib /main.dart"  // Specify the entry point
+        }
+    ]
+}
